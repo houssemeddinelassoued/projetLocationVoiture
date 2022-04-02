@@ -1,0 +1,4 @@
+Information concernant le projet
+- premier point
+- 2 eme point
+- 3 eme point
