@@ -5,8 +5,8 @@ public class Hello{
   System.out.println("Hello");
   //affichage de Hello
  }
-  public int fonction3(){
+  public void fonction2(){
 	  ////.....
-	  return 0;
+	  ///..
 	  }
 }
